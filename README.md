@@ -1,1 +1,1 @@
-# google-homepage
+In this project I built a simple re-creation of my country's Google.com homepage. From the knowledge of HTML and CSS I have obtained so far, I was able to arrange the elements where I wanted them to be and add different colours and styles.
