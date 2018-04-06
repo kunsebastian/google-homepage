@@ -51,6 +51,14 @@ nav ul li{
 	width: 36px;
 	margin-left: 5px;
 }
+.apps:hover{
+	display: inline-block;
+	background-image: url(apps2.jpg);
+	background-repeat: no-repeat;
+	height:18px;
+	width: 36px;
+	margin-left: 5px;
+}
 nav ul{
 	margin-left:80%;
 	margin-top: 0.8%;
